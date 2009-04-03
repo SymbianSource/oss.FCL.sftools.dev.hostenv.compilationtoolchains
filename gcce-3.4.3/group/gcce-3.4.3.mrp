@@ -1,0 +1,10 @@
+component	    dev_hostenv_compilationtoolchains_gcce-3.4.3
+
+source          /src/tools/dev/hostenv/compilationtoolchains/gcce-3.4.3
+exports         /src/tools/dev/hostenv/compilationtoolchains/gcce-3.4.3/group
+
+notes_source    ./release.txt   
+
+ipr T
+ipr O           /src/tools/dev/hostenv/compilationtoolchains/gcce-3.4.3
+
